@@ -1,0 +1,3 @@
+[submodule "Doom/Mochadoom"]
+	path = Doom/Mochadoom
+	url = https://github.com/AXDOOMER/mochadoom
